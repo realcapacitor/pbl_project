@@ -2,7 +2,7 @@
 
 ## For IN4
 ###     LEFT and MIDDLE is NC
-###     RIGHT and MIDDLE is NO
+####     RIGHT and MIDDLE is NO
 ###     To activate the relay between RIGHT and MIDDLE we have to pass
 ###     LOW command to the IN4 input
 
