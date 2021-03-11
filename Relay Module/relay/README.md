@@ -1,5 +1,5 @@
 # General Operational Info.
-![Test Image 4](/Images/relay.png)
+![Test Image 4](/Relay Module/relay/Images/relay.png)
 ## For IN4
 ####     LEFT and MIDDLE is NC
 ####     RIGHT and MIDDLE is NO
