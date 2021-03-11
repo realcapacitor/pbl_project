@@ -1,6 +1,7 @@
 # General Operational Info.
 ## The 5V 4 Channel Relay Module
 ![Test Image 4](/Relay_Module/relay/Images/relay.png)
+### Give +5V to VCC pin and Ground to the GND pin.
 ## For IN4
 ####     LEFT and MIDDLE is NC
 ####     RIGHT and MIDDLE is NO
