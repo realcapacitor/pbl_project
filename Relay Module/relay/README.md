@@ -1,5 +1,5 @@
 # General Operational Info.
-![Test Image 4](/None/relay.webp)
+![Test Image 4](/Images/relay.png)
 ## For IN4
 ####     LEFT and MIDDLE is NC
 ####     RIGHT and MIDDLE is NO
