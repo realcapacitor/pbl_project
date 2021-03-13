@@ -25,6 +25,9 @@ void setup() {
   Shivam.write("AT\r");
   Shivam.write("AT+DDET=1\r");
   Shivam.write("ATS0=1\r");
+ 
+  delay(15000);
+  Shivam.write("ATD8788201789;\r");
 }
 
 void loop() {
